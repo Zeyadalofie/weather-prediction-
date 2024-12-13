@@ -15,5 +15,3 @@ This project implement a weather prediction model using sklearn. It processes we
    ```bash
    git clone https://github.com/Zeyadalofie/weather-prediction-.git
    cd weather-prediction
-
-
